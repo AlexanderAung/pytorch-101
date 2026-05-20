@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+traffic_signs/
 # Distribution / packaging
 .Python
 build/
